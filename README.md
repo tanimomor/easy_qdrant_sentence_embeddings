@@ -1,0 +1,1 @@
+# easy_qdrant_sentence_embeddings
